@@ -1,0 +1,26 @@
+/* GENERIC */
+
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/* ELEMENTS */
+
+body {
+    margin: 0;
+    padding: 6vw;
+}
+
+main {
+    margin-top: 50px;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+    margin: 0;
+    padding: 0;
+}
